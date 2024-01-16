@@ -209,7 +209,7 @@ body {
 
 /* Add these styles to make the disclaimer fixed at the bottom */
 .fixed-disclaimer {
-  background-color: #ff0000;
+  background-color: #11a3d3;
   /* Red background color */
   color: #ffffff;
   /* White text color */
@@ -294,8 +294,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 40px;
-
+  margin-top: 20px;  
 }
 
 .features-list li {
@@ -714,6 +713,6 @@ video {
 
 .section-3 {
   background-color: rgb(197, 225, 255);
-  margin-top: -20px;
+  margin-top: -60px;
   padding-bottom: 95px;
 }
